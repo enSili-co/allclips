@@ -1,5 +1,5 @@
 {
-  "name": "AllClips: Color palette generator for macOS",
+  "name": "AllClips: Clipboard history manager for macOS",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "AllClips",
-  "description": "Generate a color palette from one color, organize your palettes, preview and export",
+  "description": "Keep track of your clipboard, recover lost clippings and never lose anything again!",
   "start_url": "/",
   "display": "standalone"
 }

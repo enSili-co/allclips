@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>AllClips for Mac</h1>
 <p align=center>
-  The only color palette generator you'll ever need;<br>at from the confort of your... Mac!
+  Tired of copy-pasting and forgetting what you had saved some time ago?<br>Look no further!
 </p>
 
 
