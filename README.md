@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>AllClips for Mac</h1>
 <p align=center>
-  Tired of copy-pasting and forgetting what you had saved some time ago?<br>Look no further!
+  Tired of copy-pasting and forgetting<br/>what you had saved some time ago?<br>Look no further!
 </p>
 
 
