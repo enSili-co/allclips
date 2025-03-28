@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ http://ensili.co/download/allclips/allclips-1.3.5.zip
 
 # Official Website
 
-▶︎ https://allclips.app
+▶︎ https://ensili.co/app/allclips
 
 # Issues
 
