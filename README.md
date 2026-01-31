@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/allclips/allclips-1.7.3.zip
+▶︎ https://cdn.ensili.co/app/allclips/download/allclips-1.7.3.zip
 
 # Official Website
 
